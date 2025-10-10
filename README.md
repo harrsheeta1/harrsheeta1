@@ -12,9 +12,9 @@
 - 🎓 **4th-year B.Tech student** passionate about building **data-driven, scalable applications**
 - 💡 Enthusiastic about **system design**, **AI integration**, and **real-world problem-solving**
 ---
-### Achievements
-- ⭐️ 5 Star Coder at HackerRank
-- Solved more than 400 problmes on Leetcode
+### ⭐️⭐️Achievements
+- ⭐️5 Star Coder at HackerRank
+- Solved more than 400 problems on Leetcode
 - Contest Rating of 1571 at Leetcode
 - Mentee at Codees.Cafe
 ---
