@@ -24,15 +24,7 @@
 `NumPy` · `Pandas` · `scikit-learn` · `Matplotlib`
 
 ☁️ **Cloud & DevOps:**  
-`AWS` · `Azure` · `Git` · `Postman`
-
----
-
-### 📊 GitHub Stats
-
-![Harsheeta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harsheeta-agarwal&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsheeta-agarwal&layout=compact&theme=tokyonight)
+`AWS` · `Git` · `Postman`
 
 ---
 
