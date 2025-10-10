@@ -17,6 +17,7 @@
 - Solved more than 400 problmes on Leetcode
 - Contest Rating of 1571 at Leetcode
 - Mentee at Codees.Cafe
+---
 ### 🛠️ Tech Stack
 
 💻 **Languages:**  
