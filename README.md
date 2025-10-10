@@ -43,16 +43,6 @@
 
 ---
 
-### 🎯 Fun/Animated Widgets
-
-- Visitor count:  
-  `![Visitor Count](https://komarev.com/ghpvc/?username=harrsheeta1&color=blue)`
-
-- Animated "working on" GIF (shows learning progress)  
-  `<img src="https://c.tenor.com/7TqM92Bv7qEAAAAi/working-hard.gif" alt="working hard" width="200" />`
-
----
-
 ### 🌐 Connect with Me
 <a href="https://www.linkedin.com/in/harsheeta-agarwal/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat" /></a>
 <a href="mailto:harsheeta.agarwal@example.com"><img src="https://img.shields.io/badge/-Email-red?logo=gmail&style=flat" /></a>
